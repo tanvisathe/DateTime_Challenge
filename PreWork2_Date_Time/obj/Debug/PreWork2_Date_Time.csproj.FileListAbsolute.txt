@@ -1,0 +1,6 @@
+c:\users\tanvi\documents\visual studio 2017\Projects\PreWork2_Date_Time\PreWork2_Date_Time\bin\Debug\PreWork2_Date_Time.exe.config
+c:\users\tanvi\documents\visual studio 2017\Projects\PreWork2_Date_Time\PreWork2_Date_Time\bin\Debug\PreWork2_Date_Time.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\PreWork2_Date_Time\PreWork2_Date_Time\bin\Debug\PreWork2_Date_Time.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\PreWork2_Date_Time\PreWork2_Date_Time\obj\Debug\PreWork2_Date_Time.exe
+c:\users\tanvi\documents\visual studio 2017\Projects\PreWork2_Date_Time\PreWork2_Date_Time\obj\Debug\PreWork2_Date_Time.pdb
+c:\users\tanvi\documents\visual studio 2017\Projects\PreWork2_Date_Time\PreWork2_Date_Time\obj\Debug\PreWork2_Date_Time.csprojResolveAssemblyReference.cache
